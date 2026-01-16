@@ -7,3 +7,8 @@ Silver Layer:
 - Filters invalid records
 - Handles null values
 - Enforces correct data types
+
+Gold Layer:
+- Aggregates cleaned data
+- Creates business KPIs (sales and order counts)
+- Optimized for analytics and reporting
